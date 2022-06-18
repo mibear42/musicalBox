@@ -8,6 +8,7 @@ musical box with lullaby - for cuddly toy with musical box
 * power supply
   * https://www.berrybase.de/ups-modul-f-252-r-raspberry-pi-pico-uninterruptible-power-supply \
     only necessary for pi pico, pico lipo has a charge management controller on board
+  * https://www.berrybase.de/lp-503562-lithium-polymer/lipo-akku-3-7v-1200mah-mit-2-pin-jst-stecker
 * sound card
   * https://www.berrybase.de/adafruit-i2s-3w-class-d-verst-228-rker-breakout-max98357a
 * speaker
