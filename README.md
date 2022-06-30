@@ -3,7 +3,7 @@ musical box with lullaby - for cuddly toy with musical box
 
 ### parts list (draft)
 * controler
-  or https://www.berrybase.de/pimoroni-pico-lipo-16mb
+  * https://www.berrybase.de/pimoroni-pico-lipo-16mb
 * power supply
   * https://www.berrybase.de/lp-503562-lithium-polymer/lipo-akku-3-7v-1200mah-mit-2-pin-jst-stecker
 * sound card
